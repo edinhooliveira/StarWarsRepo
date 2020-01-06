@@ -1,5 +1,5 @@
 # Star Wars Repo
 
-![./milenium-falcon.png](Milenium Falcon)
+![Milenium Falcon](./milenium-falcon.png)
 
 Este repositório serve de exemplo para o curso de Git e Github.
